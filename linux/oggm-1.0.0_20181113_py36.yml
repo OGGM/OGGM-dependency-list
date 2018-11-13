@@ -12,7 +12,7 @@ dependencies:
   - backports.functools_lru_cache=1.5=py_1
   - boost-cpp=1.67.0=h3a22d5f_0
   - boto3=1.9.42=py_0
-  - botocore=1.12.42=py_0
+  - botocore=1.12.43=py_0
   - bzip2=1.0.6=h470a237_2
   - ca-certificates=2018.10.15=ha4d7672_0
   - cairo=1.14.12=he56eebe_3
