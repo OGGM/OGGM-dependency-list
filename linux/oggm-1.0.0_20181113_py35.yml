@@ -13,7 +13,7 @@ dependencies:
   - bokeh=0.13.0=py35_0
   - boost-cpp=1.67.0=h3a22d5f_0
   - boto3=1.9.42=py_0
-  - botocore=1.12.42=py_0
+  - botocore=1.12.43=py_0
   - bottleneck=1.2.1=py35h7eb728f_1
   - bzip2=1.0.6=h470a237_2
   - ca-certificates=2018.10.15=ha4d7672_0
