@@ -106,7 +106,6 @@ dependencies:
   - pyepsg=0.3.2=py_1
   - pyopenssl=18.0.0=py35_0
   - pyparsing=2.3.0=py_0
-  - pyproj=1.9.5.1=py35haf3c679_5
   - pyqt=5.6.0=py35h764d66f_7
   - pyreadline=2.1=py35_1000
   - pysal=1.14.4.post2=py35_0
@@ -163,4 +162,5 @@ dependencies:
   - salem=0.2.2.201811231448=py_0
   - pip:
     - msgpack==0.5.6
+    - pyproj==1.9.5.1
 prefix: C:\Miniconda37-x64\envs\oggm_env
