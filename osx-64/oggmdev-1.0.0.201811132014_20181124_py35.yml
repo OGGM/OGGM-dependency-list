@@ -15,7 +15,7 @@ dependencies:
   - bottleneck=1.2.1=py35h7eb728f_1
   - bzip2=1.0.6=1
   - ca-certificates=2018.10.15=ha4d7672_0
-  - cairo=1.14.12=he6fea26_5
+  - cairo=1.14.12=h276e583_5
   - cartopy=0.16.0=py35h81b52dc_2
   - certifi=2018.8.24=py35_1001
   - cffi=1.11.5=py35h5e8e0c9_1
@@ -50,7 +50,7 @@ dependencies:
   - geotiff=1.4.2=h700e5ad_5
   - gettext=0.19.8.1=h1f1d5ed_1
   - giflib=5.1.4=h470a237_1
-  - glib=2.55.0=h464dc38_2
+  - glib=2.56.2=h464dc38_1
   - h5netcdf=0.6.2=py_0
   - h5py=2.8.0=py35h7eb728f_2
   - hdf4=4.2.13=h951d187_2
@@ -111,7 +111,7 @@ dependencies:
   - pip=18.0=py35_1001
   - pixman=0.34.0=h470a237_3
   - pluggy=0.8.0=py_0
-  - poppler=0.67.0=h4d7e492_3
+  - poppler=0.67.0=hdf8a1b3_2
   - poppler-data=0.4.9=0
   - postgresql=10.5=ha408888_0
   - progressbar2=3.38.0=py_1
