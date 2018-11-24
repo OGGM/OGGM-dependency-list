@@ -1,7 +1,7 @@
 name: oggm_env
 channels:
-  - oggm
   - conda-forge
+  - oggm
   - defaults
 dependencies:
   - affine=2.2.1=py_0
