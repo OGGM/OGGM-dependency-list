@@ -134,7 +134,7 @@ dependencies:
   - python-utils=2.3.0=py_1
   - pytz=2018.9=py_0
   - pywavelets=1.0.2=py36h917ab60_0
-  - pyyaml=3.13=py36h1de35cc_1001
+  - pyyaml=5.1=py36h1de35cc_0
   - rasterio=1.0.21=py36h3683dd5_0
   - readline=7.0=hcfe32e1_1001
   - requests=2.21.0=py36_1000
