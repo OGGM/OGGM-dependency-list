@@ -109,7 +109,7 @@ dependencies:
   - openssl=1.1.1c=h516909a_0
   - owslib=0.18.0=py_0
   - packaging=19.0=py_0
-  - pandas=0.25.0=py36hb3f55d8_0
+  - pandas=0.25.1=py36hb3f55d8_0
   - partd=1.0.0=py_0
   - pcre=8.41=hf484d3e_1003
   - pillow=6.0.0=py36he7afcd5_0
