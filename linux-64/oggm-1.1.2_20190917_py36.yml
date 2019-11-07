@@ -82,7 +82,7 @@ dependencies:
   - libopenblas=0.3.7=h6e990d7_1
   - libpng=1.6.37=hed695b0_0
   - libpq=11.5=hd9ab2ff_1
-  - libspatialindex=1.9.0=he1b5a44_1
+  - libspatialindex=1.9.0=he1b5a44_2
   - libspatialite=4.3.0a=h57ae47a_1030
   - libssh2=1.8.2=h22169c7_2
   - libstdcxx-ng=9.1.0=hdf63c60_0
