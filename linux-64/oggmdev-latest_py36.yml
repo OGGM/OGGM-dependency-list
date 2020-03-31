@@ -141,6 +141,7 @@ dependencies:
   - pyqt=5.12.3=py36hcca6a23_1
   - pyshp=2.1.0=py_0
   - pysocks=1.7.1=py36_0
+  - pytables=3.6.1=py36h9f153d1_1
   - pytest=5.3.5=py36_0
   - pytest-mpl=0.111.0.201811121226=py_0
   - pytest-runner=5.2=py_0
