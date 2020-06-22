@@ -121,7 +121,7 @@ dependencies:
   - pillow=7.1.2=py36h2ae5dfa_0
   - pip=20.1.1=py_1
   - pixman=0.38.0=h01d97ff_1003
-  - pluggy=0.13.1=py36h9f0ad1d_1
+  - pluggy=0.13.1=py36h9f0ad1d_2
   - poppler=0.87.0=h3232a60_1
   - poppler-data=0.4.9=1
   - postgresql=12.2=h62ab893_1
