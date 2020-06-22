@@ -1,31 +1,7 @@
 name: oggm
 channels:
+  - oggm
   - conda-forge
 dependencies:
   - python
-  - matplotlib
-  - numpy
-  - scipy
-  - pyproj
-  - pandas
-  - joblib
-  - geopandas
-  - motionless
-  - netcdf4
-  - gdal
-  - configobj
-  - krb5
-  - xarray
-  - rasterio
-  - scikit-image
-  - pillow
-  - gdal
-  - progressbar2
-  - filelock
-  - py
-  - boto3
-  - cython
-  - requests
-  - pip:
-    - git+https://github.com/fmaussion/salem.git
-
+  - oggm-deps
