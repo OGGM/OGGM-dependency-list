@@ -169,8 +169,8 @@ dependencies:
   - networkx=3.4.2=pyh267e887_2
   - nlohmann_json=3.12.0=ha1acc90_0
   - numexpr=2.10.2=py312hbbbb429_0
-  - numpy=1.26.4=py312h8442bc7_0
-  - oggm=1.6.2=py_0
+  - numpy=2.2.5=py312h7c1f314_0
+  - oggm=1.6.2=py_1
   - openjpeg=2.5.3=h8a3d83b_0
   - openssl=3.5.0=h81ee809_0
   - orc=2.1.1=hd90e43c_1
